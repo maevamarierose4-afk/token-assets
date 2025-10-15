@@ -1,0 +1,15 @@
+{
+  "name": "USDC-EDU Tokenlist",
+  "timestamp": "2025-10-15T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xA43AE3a453BA3f5587D43f93BfA81542cfFe1B00",
+      "name": "USDC-EDU",
+      "symbol": "USDCEDU",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/maevamarierose4-afk/token-assets/main/blockchains/arbitrum/assets/0xA43AE3a453BA3f5587D43f93BfA81542cfFe1B00/logo.png"
+    }
+  ]
+}
